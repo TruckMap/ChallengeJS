@@ -30,7 +30,7 @@ You will build a real-time React.JS chat room that allows users to log in and se
 
 ## Submitting
 
-- Please include a `README` with any instructions for setup, assumptions made for the project, and a few ideas for features you might add if the app was taken any further.
-- Please provide screenshots or a video demo of the various UI screens.
-- Zip and email your repository to us. You can remove `node_modules` before zipping to reduce size.
-- We will provide constructive and timely feedback on your submission with a clear direction around next steps.  Thank you for your time.
+1. Please include a `README` with any instructions for setup, assumptions made for the project, and a few ideas for features you might add if the app was taken any further.
+2. Please include a few **screenshots** or video demo showing the app in use.
+3. Zip and email your repository to us. You can remove `node_modules` before zipping to reduce size.
+4. We will provide constructive and timely feedback on your submission with a clear direction around next steps.  Thank you for your time.
